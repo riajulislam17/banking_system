@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+}
+.textColor{
+    color: tomato;
+}
+
+.customButton{
+    background-color: olivedrab;
+}
+*{
+    /* border: 2px solid red; */
+}
